@@ -12,4 +12,4 @@ header-img: "img/green.jpg"
 
 
 
-**硬件** ： 写作  摄影  拍照  健身  小厨子  startup  podcast迷  博客主  
+**硬件** ： 写作  摄影  拍照  健身  小厨子  startup  播客爱好者  博客主  
